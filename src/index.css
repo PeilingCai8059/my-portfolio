@@ -1,0 +1,23 @@
+body{
+  background-color: #1f1f38;
+  font-family: "Gill Sans", sans-serif;
+}
+.main{
+ 
+}
+.content{
+  align-items: center;
+  justify-content: center;
+}
+.content-block{
+  margin-bottom: 2rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.content-right{
+  border: 1px solid transparent;
+  border-color: #036cff;
+  border-radius: 1rem;
+}
